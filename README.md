@@ -1,5 +1,5 @@
 # MOPR-Lập trình di động
-## Tuần 1:
+## Tuần 1: https://github.com/dantv2002/MOPR/tree/main/Week1/Labwork2-CreateTheFirstApp
 ## Tuần 2:
 ## Tuần 3:
 ## Tuần 4:
