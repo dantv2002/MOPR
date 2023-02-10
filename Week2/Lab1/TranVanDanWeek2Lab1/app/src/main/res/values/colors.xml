@@ -9,4 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="green">#00ff00</color>
     <color name="grey">#f6f6ee</color>
+    <color name="lab1_relative">#eff5ec</color>
+    <color name="lab1_relative2">#ef9b00</color>
+    <color name="lab1_relative3">#d6d7d7</color>
 </resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/lab1_relative2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <EditText
+        android:id="@+id/editText_Name"
+        android:layout_width="wrap_content"
+        android:layout_height="74dp"
+        android:paddingLeft="15dp"
+        android:background="@color/lab1_relative"
+        android:ems="10"
+        android:hint="@string/name"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/editText_Subject"
+        android:layout_width="match_parent"
+        android:layout_height="74dp"
+        android:paddingLeft="15dp"
+        android:layout_below="@+id/editText_Name"
+        android:layout_marginTop="20dp"
+        android:background="@color/lab1_relative"
+        android:ems="10"
+        android:hint="@string/subject"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/editText_Message"
+        android:layout_width="match_parent"
+        android:layout_height="296dp"
+        android:layout_below="@+id/editText_Subject"
+        android:layout_marginTop="20dp"
+        android:background="@color/lab1_relative"
+        android:ems="10"
+        android:hint="@string/message"
+        android:inputType="textMultiLine"
+        android:gravity="top"
+        android:paddingTop="20dp"
+        android:paddingLeft="15dp" />
+
+    <EditText
+        android:id="@+id/editText_Address"
+        android:layout_width="wrap_content"
+        android:layout_height="74dp"
+        android:layout_marginStart="8dp"
+        android:paddingLeft="15dp"
+        android:layout_toEndOf="@+id/editText_Name"
+        android:background="@color/lab1_relative"
+        android:ems="10"
+        android:hint="@string/address"
+        android:inputType="text" />
+
+    <Button
+        android:id="@+id/btn_submitrelative"
+        android:layout_width="93dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText_Message"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="155dp"
+        android:layout_marginTop="30dp"
+        android:backgroundTint="@color/lab1_relative3"
+        android:hint="@string/submit"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+</RelativeLayout>

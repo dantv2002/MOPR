@@ -5,4 +5,8 @@
     <string name="email_id">Email Id</string>
     <string name="cancel">CANCEL</string>
     <string name="submit">SUBMIT</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
 </resources>
