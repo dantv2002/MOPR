@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TranVanDanWeek2Lab1</string>
+    <string name="user_name">User Name</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="email_id">Email Id</string>
+    <string name="cancel">CANCEL</string>
+    <string name="submit">SUBMIT</string>
+</resources>
