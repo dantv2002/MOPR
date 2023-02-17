@@ -3,7 +3,7 @@
 ## Tuần 2:
 Lab1: https://github.com/dantv2002/MOPR/tree/main/Week2/Lab1 <br/>
 Lab2: https://github.com/dantv2002/MOPR/tree/main/Week2/Lab2
-## Tuần 3:
+## Tuần 3: https://github.com/dantv2002/MOPR/tree/main/Week3/AppResources
 ## Tuần 4:
 ## Tuần 5:
 ## Tuần 6:
