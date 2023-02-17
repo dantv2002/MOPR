@@ -6,13 +6,18 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
+        android:id="@+id/textView"
+        android:layout_width="216dp"
+        android:layout_height="66dp"
+        android:layout_marginStart="104dp"
+        android:layout_marginTop="312dp"
+        android:background="#3CA9FF"
+        android:gravity="center"
+        android:text="Màn hình dọc"
+        android:textColor="#880E4F"
+        android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
