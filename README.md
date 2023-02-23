@@ -6,8 +6,8 @@ Lab2: https://github.com/dantv2002/MOPR/tree/main/Week2/Lab2
 ## Tuần 3: 
 Trên lớp: https://github.com/dantv2002/MOPR/tree/main/Week3 <br/>
 Fragment Test: https://github.com/dantv2002/MOPR/tree/main/Week3/FragmentTest <br/>
-Fragment tutorials: https://github.com/dantv2002/MOPR/tree/main/Week3/FragmentTutorials
-
+Fragment tutorials: https://github.com/dantv2002/MOPR/tree/main/Week3/FragmentTutorials <br/>
+Fragment communication: https://github.com/dantv2002/MOPR/tree/main/Week3/FragmentCommunication
 ## Tuần 4:
 ## Tuần 5:
 ## Tuần 6:
