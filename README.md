@@ -9,6 +9,7 @@ Fragment Test: https://github.com/dantv2002/MOPR/tree/main/Week3/FragmentTest <b
 Fragment tutorials: https://github.com/dantv2002/MOPR/tree/main/Week3/FragmentTutorials <br/>
 Fragment communication: https://github.com/dantv2002/MOPR/tree/main/Week3/FragmentCommunication
 ## Tuần 4:
+Test Activity Life Cycle: https://github.com/dantv2002/MOPR/tree/main/Week4/ActivityLifeCycle
 ## Tuần 5:
 ## Tuần 6:
 ## Tuần 7:
