@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void onLaunchWebPagebuttonClicked(View v){
         Log.i("Btn", "Clicked");
-        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://fhqx.hcmute.edu.vn/"));
+        Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://fhqx.hcmute.edu.vn"));
         startActivity(intent);
     }
 }
