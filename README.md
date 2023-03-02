@@ -11,7 +11,7 @@ Fragment communication: https://github.com/dantv2002/MOPR/tree/main/Week3/Fragme
 ## Tuần 4:
 Trên lớp: Test Activity Life Cycle: https://github.com/dantv2002/MOPR/tree/main/Week4/ActivityLifeCycle <br/>
 Project 1: https://github.com/dantv2002/MOPR/tree/main/Week4/IntroductionIntent <br/>
-Project 2: <br/>
+Project 2: https://github.com/dantv2002/MOPR/tree/main/Week4/startActivityForResult<br/>
 Project 3: 
 ## Tuần 5:
 ## Tuần 6:
