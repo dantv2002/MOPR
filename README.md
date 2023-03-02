@@ -9,8 +9,10 @@ Fragment Test: https://github.com/dantv2002/MOPR/tree/main/Week3/FragmentTest <b
 Fragment tutorials: https://github.com/dantv2002/MOPR/tree/main/Week3/FragmentTutorials <br/>
 Fragment communication: https://github.com/dantv2002/MOPR/tree/main/Week3/FragmentCommunication
 ## Tuần 4:
-Trên lớp: Test Activity Life Cycle: https://github.com/dantv2002/MOPR/tree/main/Week4/ActivityLifeCycle
-Project 1: 
+Trên lớp: Test Activity Life Cycle: https://github.com/dantv2002/MOPR/tree/main/Week4/ActivityLifeCycle <br/>
+Project 1: https://github.com/dantv2002/MOPR/tree/main/Week4/IntroductionIntent <br/>
+Project 2: <br/>
+Project 3: 
 ## Tuần 5:
 ## Tuần 6:
 ## Tuần 7:
