@@ -16,6 +16,7 @@ Project 3: https://github.com/dantv2002/MOPR/tree/main/Week4/Implicit%20Intent
 ## Tuần 5:
 Service Introduction: https://github.com/dantv2002/MOPR/tree/main/Week5/ServiceIntroduction </br>
 Foreground Service: https://github.com/dantv2002/MOPR/tree/main/Week5/ForegroundService </br>
+Media Player: https://github.com/dantv2002/MOPR/tree/main/Week5/MediaPlayer </br>
 ## Tuần 6:
 ## Tuần 7:
 ## Tuần 8:
