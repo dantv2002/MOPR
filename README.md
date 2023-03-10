@@ -14,7 +14,8 @@ Project 1: https://github.com/dantv2002/MOPR/tree/main/Week4/IntroductionIntent 
 Project 2: https://github.com/dantv2002/MOPR/tree/main/Week4/startActivityForResult<br/>
 Project 3: https://github.com/dantv2002/MOPR/tree/main/Week4/Implicit%20Intent
 ## Tuần 5:
-## Tuần 6:
+Service Introduction: https://github.com/dantv2002/MOPR/tree/main/Week5/ServiceIntroduction
+#Tuần 6:
 ## Tuần 7:
 ## Tuần 8:
 ## Tuần 9:
