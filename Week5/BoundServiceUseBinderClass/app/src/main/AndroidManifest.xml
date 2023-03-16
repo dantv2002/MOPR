@@ -11,6 +11,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BoundServiceUseBinderClass"
         tools:targetApi="31">
+        <service android:name=".MusicBoundService"></service>
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
