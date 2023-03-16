@@ -18,6 +18,8 @@ Service Introduction: https://github.com/dantv2002/MOPR/tree/main/Week5/ServiceI
 Foreground Service: https://github.com/dantv2002/MOPR/tree/main/Week5/ForegroundService </br>
 Media Player: https://github.com/dantv2002/MOPR/tree/main/Week5/MediaPlayer </br>
 Intent Service (Background Service): https://github.com/dantv2002/MOPR/tree/main/Week5/CreateIntentService </br>
+Bound Service use Binder class: https://github.com/dantv2002/MOPR/tree/main/Week5/BoundServiceUseBinderClass </br>
+Bound Service use Messenger: https://github.com/dantv2002/MOPR/tree/main/Week5/BoundServiceUseMessenger </br>
 ## Tuần 6:
 ## Tuần 7:
 ## Tuần 8:
