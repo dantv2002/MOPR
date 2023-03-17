@@ -21,6 +21,8 @@ Intent Service (Background Service): https://github.com/dantv2002/MOPR/tree/main
 Bound Service use Binder class: https://github.com/dantv2002/MOPR/tree/main/Week5/BoundServiceUseBinderClass </br>
 Bound Service use Messenger: https://github.com/dantv2002/MOPR/tree/main/Week5/BoundServiceUseMessenger </br>
 ## Tuần 6:
+Practice 1 (Static Receivers): https://github.com/dantv2002/MOPR/tree/main/Week6/BroadcastReceiver </br>
+Practice 2 (Dynamic Receivers): https://github.com/dantv2002/MOPR/tree/main/Week6/BroadcastReceiver </br>
 ## Tuần 7:
 ## Tuần 8:
 ## Tuần 9:
