@@ -25,6 +25,7 @@
         </activity>
 
         <service android:name=".MyService"/>
+        <receiver android:name=".MyReceiver"/>
 
     </application>
 

@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        edtDataIntent = findViewById(R.id.edt_data_intent);
         btnStartService = findViewById(R.id.btn_start_service);
         btnStopService = findViewById(R.id.btn_stop_service);
 
