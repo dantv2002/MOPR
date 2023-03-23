@@ -24,6 +24,7 @@ Bound Service use Messenger: https://github.com/dantv2002/MOPR/tree/main/Week5/B
 Practice 1 (Static Receivers): https://github.com/dantv2002/MOPR/tree/main/Week6/BroadcastReceiver </br>
 Practice 2 (Dynamic Receivers): https://github.com/dantv2002/MOPR/tree/main/Week6/BroadcastReceiver </br>
 Practice 4 (Notification, Foreground Service and BroadcastReceiver): https://github.com/dantv2002/MOPR/tree/main/Week6/MediaPlayer </br>
+Practice 5 (Activity, Foreground Service and BroadcastReceiver): https://github.com/dantv2002/MOPR/tree/main/Week6/MediaPlayer </br>
 ## Tuần 7:
 ## Tuần 8:
 ## Tuần 9:
