@@ -26,6 +26,8 @@ Practice 2 (Dynamic Receivers): https://github.com/dantv2002/MOPR/tree/main/Week
 Practice 4 (Notification, Foreground Service and BroadcastReceiver): https://github.com/dantv2002/MOPR/tree/main/Week6/MediaPlayer </br>
 Practice 5 (Activity, Foreground Service and BroadcastReceiver): https://github.com/dantv2002/MOPR/tree/main/Week6/MediaPlayer </br>
 ## Tuần 7:
+Practice internal storage: https://github.com/dantv2002/MOPR/tree/main/Week7/InternalStorage <br/>
+
 ## Tuần 8:
 ## Tuần 9:
 ## Tuần 10:
