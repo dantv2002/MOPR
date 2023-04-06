@@ -1,5 +1,6 @@
 # MOPR-Lập trình di động
-## Tuần 1: https://github.com/dantv2002/MOPR/tree/main/Week1/Labwork2-CreateTheFirstApp
+## Tuần 1: 
+https://github.com/dantv2002/MOPR/tree/main/Week1/Labwork2-CreateTheFirstApp
 ## Tuần 2:
 Lab1: https://github.com/dantv2002/MOPR/tree/main/Week2/Lab1 <br/>
 Lab2: https://github.com/dantv2002/MOPR/tree/main/Week2/Lab2
@@ -30,6 +31,7 @@ Practice internal storage: https://github.com/dantv2002/MOPR/tree/main/Week7/Int
 Practice external storage: https://github.com/dantv2002/MOPR/tree/main/Week7/ExternalStorage <br/>
 Practice share storage - Open Camera: https://github.com/dantv2002/MOPR/tree/main/Week7/SharedStorage <br/>
 Practice share storage - Capture Screenshots: https://github.com/dantv2002/MOPR/tree/main/Week7/ShareStorageCaptureScreenshots <br/>
+Practice share storage - Select An Image From Gallery: https://github.com/dantv2002/MOPR/tree/main/Week7/ShareStorageSelectImageFromGallery <br/>
 ## Tuần 8:
 ## Tuần 9:
 ## Tuần 10:
