@@ -28,6 +28,7 @@ Practice 5 (Activity, Foreground Service and BroadcastReceiver): https://github.
 ## Tuần 7:
 Practice internal storage: https://github.com/dantv2002/MOPR/tree/main/Week7/InternalStorage <br/>
 Practice external storage: https://github.com/dantv2002/MOPR/tree/main/Week7/ExternalStorage <br/>
+Practice share storage: https://github.com/dantv2002/MOPR/tree/main/Week7/SharedStorage <br/>
 ## Tuần 8:
 ## Tuần 9:
 ## Tuần 10:
