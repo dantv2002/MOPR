@@ -1,6 +1,6 @@
 # MOPR-Lập trình di động
 ## Tuần 1: 
-https://github.com/dantv2002/MOPR/tree/main/Week1/Labwork2-CreateTheFirstApp
+Labwork2 Create the First App: https://github.com/dantv2002/MOPR/tree/main/Week1/Labwork2-CreateTheFirstApp
 ## Tuần 2:
 Lab1: https://github.com/dantv2002/MOPR/tree/main/Week2/Lab1 <br/>
 Lab2: https://github.com/dantv2002/MOPR/tree/main/Week2/Lab2
