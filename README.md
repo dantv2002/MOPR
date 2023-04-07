@@ -33,6 +33,7 @@ Practice share storage - Open Camera: https://github.com/dantv2002/MOPR/tree/mai
 Practice share storage - Capture Screenshots: https://github.com/dantv2002/MOPR/tree/main/Week7/ShareStorageCaptureScreenshots <br/>
 Practice share storage - Select An Image From Gallery: https://github.com/dantv2002/MOPR/tree/main/Week7/ShareStorageSelectImageFromGallery <br/>
 ## Tuần 8:
+Access mp3 files from external storage: https://github.com/dantv2002/MOPR/tree/main/Week8/AccessMp3FilesExternalStorage <br/>
 ## Tuần 9:
 ## Tuần 10:
 ## Tuần 11:
