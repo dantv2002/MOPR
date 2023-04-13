@@ -116,6 +116,27 @@ public class DBHandler extends SQLiteOpenHelper {
         return courseModalArrayList;
     }
 
+    // below is the method for updating our courses
+    public void updateCourse(String originalCourseName, String courseName, String courseDescription,
+                             String courseTracks, String courseDuration) {
+
+        // calling a method to get writable database.
+        SQLiteDatabase db = this.getWritableDatabase();
+        ContentValues values = new ContentValues();
+
+        // on below line we are passing all values
+        // along with its key and value pair.
+        values.put(NAME_COL, courseName);
+        values.put(DURATION_COL, courseDuration);
+        values.put(DESCRIPTION_COL, courseDescription);
+        values.put(TRACKS_COL, courseTracks);
+
+        // on below line we are calling a update method to update our database and passing our values.
+        // and we are comparing it with name of our course which is stored in original name variable.
+        db.update(TABLE_NAME, values, "name=?", new String[]{originalCourseName});
+        db.close();
+    }
+
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
         // this method is called to check if the table exists already.
