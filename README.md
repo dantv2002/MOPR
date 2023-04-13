@@ -35,7 +35,9 @@ Practice share storage - Select An Image From Gallery: https://github.com/dantv2
 ## Tuần 8:
 Access mp3 files from external storage: https://github.com/dantv2002/MOPR/tree/main/Week8/AccessMp3FilesExternalStorage <br/>
 Media player: https://github.com/dantv2002/MOPR/tree/main/Week8/MediaPlayer <br/>
-SQLite practice 1: https://github.com/dantv2002/MOPR/tree/main/Week8/CreateAndAddDataToSQLite <br/>
+SQLite practice Create and Add Data: https://github.com/dantv2002/MOPR/tree/main/Week8/CreateAndAddDataToSQLite <br/>
+SQLite practice Read Data: https://github.com/dantv2002/MOPR/tree/main/Week8/ReadDataFromSQLite <br/>
+SQLite practice Update Data: 
 ## Tuần 9:
 ## Tuần 10:
 ## Tuần 11:
