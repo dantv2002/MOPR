@@ -37,7 +37,7 @@ Access mp3 files from external storage: https://github.com/dantv2002/MOPR/tree/m
 Media player: https://github.com/dantv2002/MOPR/tree/main/Week8/MediaPlayer <br/>
 SQLite practice Create and Add Data: https://github.com/dantv2002/MOPR/tree/main/Week8/CreateAndAddDataToSQLite <br/>
 SQLite practice Read Data: https://github.com/dantv2002/MOPR/tree/main/Week8/ReadDataFromSQLite <br/>
-SQLite practice Update Data: 
+SQLite practice Update Data: https://github.com/dantv2002/MOPR/tree/main/Week8/ReadDataFromSQLite <br/>
 ## Tuần 9:
 ## Tuần 10:
 ## Tuần 11:
