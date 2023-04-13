@@ -48,4 +48,13 @@
         android:text="Update Course"
         android:textAllCaps="false" />
 
+    <!--button for deleting our course-->
+    <Button
+        android:id="@+id/idBtnDelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Delete Course"
+        android:textAllCaps="false" />
+
 </LinearLayout>
