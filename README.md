@@ -59,6 +59,7 @@ SQLite practice Delete Data: https://github.com/dantv2002/MOPR/tree/main/Week8/R
 ## Tuần 9:
 Firebase practice 1: https://github.com/dantv2002/MOPR/tree/main/Week9/PracticeFirebase <br/>
 Practice 2: Play a song from Firebase: https://github.com/dantv2002/MOPR/tree/main/Week9/Practice2 <br/>
+Practice 3: Upload & Retrieve images: https://github.com/dantv2002/MOPR/tree/main/Week9/Practice3UploadAndRetrieveImages <br/>
 
 ## Tuần 10:
 
