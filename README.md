@@ -57,6 +57,7 @@ SQLite practice Update Data: https://github.com/dantv2002/MOPR/tree/main/Week8/R
 SQLite practice Delete Data: https://github.com/dantv2002/MOPR/tree/main/Week8/ReadDataFromSQLite <br/>
 
 ## Tuần 9:
+Firebase practice 1: https://github.com/dantv2002/MOPR/tree/main/Week9/PracticeFirebase <br/>
 
 ## Tuần 10:
 
