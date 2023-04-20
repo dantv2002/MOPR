@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1094152610156",
+    "firebase_url": "https://practicefirebase-f0570-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "practicefirebase-f0570",
+    "storage_bucket": "practicefirebase-f0570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094152610156:android:78ac3a9e1c50421b999349",
+        "android_client_info": {
+          "package_name": "com.example.practice2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094152610156-ruk9rm3sf741v1vum2s4htv7ihlag3vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq1_MBRwqoeGZ2pgY67gneJdU7Ok6Q8eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094152610156-ruk9rm3sf741v1vum2s4htv7ihlag3vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094152610156:android:3d1da515bc77388c999349",
+        "android_client_info": {
+          "package_name": "com.example.practice3uploadandretrieveimages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094152610156-ruk9rm3sf741v1vum2s4htv7ihlag3vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq1_MBRwqoeGZ2pgY67gneJdU7Ok6Q8eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094152610156-ruk9rm3sf741v1vum2s4htv7ihlag3vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094152610156:android:387834ded74d9481999349",
+        "android_client_info": {
+          "package_name": "com.example.practicefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094152610156-ruk9rm3sf741v1vum2s4htv7ihlag3vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq1_MBRwqoeGZ2pgY67gneJdU7Ok6Q8eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094152610156-ruk9rm3sf741v1vum2s4htv7ihlag3vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
